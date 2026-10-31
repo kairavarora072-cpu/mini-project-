@@ -1,0 +1,20 @@
+Room    Type        Rate (Rs.)  Status
+101     Standard    2000        Available
+102     Standard    2000        Available
+201     Deluxe      3500        Available
+301     Suite       6000        Available
+
+Booking 1 confirmed: Kairava Rora, Room 201 (Deluxe), 3 night(s).
+
+Error: Room 201 is already booked.
+
+------------ HOTEL BILL ------------
+Booking id  : 1
+Guest       : Kairava Rora
+Room        : 201 (Deluxe)
+Rate/night  : Rs. 3500.00
+Nights      : 3
+Subtotal    : Rs. 10500.00
+GST (12%)   : Rs. 1260.00
+Total       : Rs. 11760.00
+------------------------------------
